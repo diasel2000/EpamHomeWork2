@@ -1,0 +1,2 @@
+
+Main-Class: com.epam.HW2.Main
